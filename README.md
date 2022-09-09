@@ -7,7 +7,9 @@
 
 - 💬 Ask me about **Api's, Cloud functions, Single page applications, Data management and analysis, Devops, System architecture, React, Nextjs, Angular, Typescript, .NET 6, C#**
 
-- 📫 How to reach me **emcdaniel1624@gmail.com**
+- ⚡ Available for software development work for front end, back end, or fullstack projects
+
+- 📫 Reach me at **emcdaniel1624@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
