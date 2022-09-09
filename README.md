@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">A full stack software developer from Phoenix Arizona</h3>
 
-- 🔭 I’m currently a software engineer at [Kimley-Horn](https://www.kimley-horn.com/)
+- 🔭 I’m currently working as a software engineer at [Kimley-Horn](https://www.kimley-horn.com/)
 
 - 🔭 I currently work on Kimley Horn's [Traction Project for Smart Cities](https://www.kimley-horn.com/solutions/smart-cities/traction-live/)
 
-- 💬 Ask me about **Api's, Cloud functions, Data management and analysis, Devops, System architecture, React, Nextjs, Angular, Typescript, .NET, C#**
+- 💬 Ask me about **Api's, Cloud functions, Single page applications, Data management and analysis, Devops, System architecture, React, Nextjs, Angular, Typescript, .NET 6, C#**
 
 - 📫 How to reach me **emcdaniel1624@gmail.com**
 
