@@ -7,7 +7,7 @@
 
 - 🔭 I recieved a Bachelor of Science degree in Computer Science with a focus on Software Engineering from the Fulton School of Engineering at Arizona State University
 
-- 💬 Ask me about **Api's, Cloud functions, Single page applications, Data management and analysis, Devops, System architecture, React, Nextjs, Angular, Typescript, .NET 6, C#**
+- 💬 Ask me about **Api's, Cloud functions, Single page applications, Data management and analysis, SQL, Entinty Framework, Dapper, Devops, System architecture, React, Nextjs, Angular, Typescript, .NET 6, C#**
 
 - ⚡ Available for software development work for front end, back end, or fullstack projects
 
