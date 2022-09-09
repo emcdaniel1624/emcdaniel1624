@@ -5,7 +5,7 @@
 
 - 🔭 I currently work on Kimley Horn's [Traction Project for Smart Cities](https://www.kimley-horn.com/solutions/smart-cities/traction-live/)
 
-- 🔭 I recieved a Bachelor of Science degree in Computer Science with a focus on Software Engineering from the Fulton School of Engineering at Arizona State University
+- 🔭 I recieved a Bachelor of Science degree in Computer Science with a focus on Software Engineering from the Ira A. Fulton School of Engineering at Arizona State University
 
 - 💬 Ask me about **Api's, Cloud functions, Single page applications, Data management and analysis, SQL, Entinty Framework, Dapper, Devops, System architecture, React, Nextjs, Angular, Typescript, .NET 6, C#**
 
