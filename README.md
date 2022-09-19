@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a software engineer at [Kimley-Horn](https://www.kimley-horn.com/)
 
-- 🔭 I currently work on Kimley Horn's [Traction Project for Smart Cities](https://www.kimley-horn.com/solutions/smart-cities/traction-live/)
+- 🔭 I currently work on Kimley Horn's [Traction Project for Smart Cities](https://traction.kimley-horn.com/home)
 
 - 🔭 I recieved a Bachelor of Science degree in Computer Science with a focus on Software Engineering from the Ira A. Fulton School of Engineering at Arizona State University
 
