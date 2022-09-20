@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ethanmcdaniel/">LinkedIn</a>
+  <br/>
 <a href="https://medium.com/@emcdaniel1624">Medium</a>
 </p>
 
