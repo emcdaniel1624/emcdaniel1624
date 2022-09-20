@@ -11,7 +11,7 @@
 
 - ⚡ Available for software development work for front end, back end, or fullstack projects
 
-- 📫 Reach me at **emcdaniel1624@gmail.com** or submit a work proposal to me on <a href="https://www.upwork.com/workwith/ethanm8">Upwork</a>
+- 📫 Reach me at **emcdaniel1624@gmail.com** or submit a work proposal to me on **<a href="https://www.upwork.com/workwith/ethanm8">Upwork</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
