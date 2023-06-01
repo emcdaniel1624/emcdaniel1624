@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">A full stack software developer from Phoenix Arizona</h3>
 
-- 🔭 I’m currently working as a software engineer at [Kimley-Horn](https://www.kimley-horn.com/)
+- 🔭 I’m currently working as a software developer at [Kimley-Horn](https://www.kimley-horn.com/)
 
-- 🔭 I currently work on Kimley Horn's [Traction Project for Smart Cities](https://traction.kimley-horn.com/home)
+- 🔭 I currently work on Kimley Horn's [Traction Priority Project]([https://traction.kimley-horn.com/home](https://www.kimley-horn.com/solutions/smart-cities/traction-priority/#:~:text=Traction%20Priority%20is%20the%20next,and%20without%20added%20field%20infrastructure.))
 
 - 🔭 I recieved a Bachelor of Science degree in Computer Science with a focus on Software Engineering from the Ira A. Fulton School of Engineering at Arizona State University
 
 - 💬 Ask me about **Api's, Cloud functions, Single page applications, Data management and analysis, SQL, Entinty Framework, Dapper, NoSql, MongoDb, Firestore, Devops, System architecture, React, Nextjs, Angular, Typescript, .NET 6, C#, Authentication and Authorization, Azure AD, Azure AD B2C, OAUTH, MSAL, Azure, AWS, Firebase, Google Cloud**
 
-- ⚡ Available for software development work for front end, back end, or fullstack projects
+- ⚡ Software development for front end, back end, or fullstack projects
 
-- 📫 Reach me at **emcdaniel1624@gmail.com** or submit a work proposal to me on **<a href="https://www.upwork.com/workwith/ethanm8">Upwork</a>**
+- 📫 Reach me at **emcdaniel1624@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
