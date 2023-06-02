@@ -7,7 +7,7 @@
 
 - 🔭 I recieved a Bachelor of Science degree in Computer Science with a focus on Software Engineering from the Ira A. Fulton School of Engineering at Arizona State University
 
-- 💬 Ask me about **Api's, Cloud functions, Single page applications, Data management and analysis, SQL, Entinty Framework, Dapper, NoSql, MongoDb, Firestore, Devops, System architecture, React, Nextjs, Angular, Typescript, .NET 6, C#, Authentication and Authorization, Azure AD, Azure AD B2C, OAUTH, MSAL, Azure, AWS, Firebase, Google Cloud**
+- 💬 Ask me about **Api's, Web Applications, Data management and analysis, SQL, Entinty Framework, Dapper, NoSql, MongoDb, Devops, System architecture, React, Nextjs, Angular, Typescript, .NET Core, C#, Authentication and Authorization, Azure AD, Azure AD B2C, OAUTH, MSAL, Cloud, Vercel, Azure**
 
 - ⚡ Software development for front end, back end, or fullstack projects
 
